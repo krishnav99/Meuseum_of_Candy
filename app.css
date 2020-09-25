@@ -29,4 +29,12 @@ body{
     font-size: 4.5vw;
 }
 
+@media (max-width: 1200px) {
+    h2 {
+        font-size: 1.5rem;
+    }
+    .lead{
+        font-size: 0.9rem;
+    }
+}
 
