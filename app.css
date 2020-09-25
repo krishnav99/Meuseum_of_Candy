@@ -29,12 +29,23 @@ body{
     font-size: 4.5vw;
 }
 
+h2{
+    font-weight: 100;
+    font-size: 2rem;
+    color: #ea1c2c;
+}
+
+.lead{
+    color: #f498b8;
+    line-height: 2;
+}
+
 @media (max-width: 1200px) {
     h2 {
         font-size: 1.5rem;
     }
     .lead{
-        font-size: 0.9rem;
+        font-size: 0.8rem;
     }
 }
 
